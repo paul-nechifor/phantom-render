@@ -6,9 +6,13 @@
   "scripts": {
     "preinstall": "rm -fr lib; coffee --compile --bare --output lib src"
   },
-  "license": "MIT",
   "dependencies": {
     "coffee-script": "^1.7.1",
     "tmp": "0.0.23"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paul-nechifor/phantom-render"
+  },
+  "license": "MIT"
 }
