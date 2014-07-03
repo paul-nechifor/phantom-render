@@ -1,6 +1,6 @@
 {
   "name": "phantom-render",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Paul Nechifor <paul@nechifor.net> (http://nechifor.net/)",
   "main": "./lib",
   "scripts": {
